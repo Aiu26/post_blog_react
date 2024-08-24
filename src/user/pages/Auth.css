@@ -1,0 +1,26 @@
+.authentication__header {
+	color: white;
+	text-align: center;
+}
+
+.authentication {
+	width: 90%;
+	max-width: 25rem;
+	margin: 7rem auto;
+	text-align: center;
+}
+
+.authentication Input {
+	width: 90%;
+	margin: 0.5rem auto;
+	border: 1px solid #ccc;
+}
+
+.authentication button {
+	width: 50%;
+	margin: 0.5rem auto;
+}
+
+.authentication form {
+	margin-bottom: 1rem;
+}
